@@ -1,0 +1,27 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2021-01-01
+  country: MyString
+  city: MyString
+  name: MyString
+  distance: MyString
+  desc: MyText
+  number: MyString
+  time: 2021-01-01 22:43:50
+  distance: MyString
+  event_type: MyString
+  string: MyString
+
+two:
+  date: 2021-01-01
+  country: MyString
+  city: MyString
+  name: MyString
+  distance: MyString
+  desc: MyText
+  number: MyString
+  time: 2021-01-01 22:43:50
+  distance: MyString
+  event_type: MyString
+  string: MyString
