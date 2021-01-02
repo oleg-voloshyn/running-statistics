@@ -9,11 +9,8 @@ class CreateEvents < ActiveRecord::Migration[6.0]
       t.text :desc
       t.string :number
       t.time :time
-      t.string :distance
       t.string :event_type
       t.string :string
-
-      t.timestamps
     end
   end
 end
