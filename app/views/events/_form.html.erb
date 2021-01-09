@@ -53,7 +53,7 @@
 
   <div class="field">
     <%= form.label :event_type %>
-    <%= form.text_field :event_type %>
+    <%= form.select :distance, Event.event_types.keys %>
   </div>
 
   <div class="actions">
